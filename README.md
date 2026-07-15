@@ -29,7 +29,7 @@ This project analyzes the impact of COVID-19 vaccination rollout on death rate r
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard_Full.png)
+![Dashboard](Dasboard_full.png)
 
 ---
 
